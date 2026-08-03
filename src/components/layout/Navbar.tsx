@@ -32,7 +32,7 @@ const Navbar = () => {
           <a href="#" className="flex items-center gap-3 group flex-shrink-0">
             <div className="w-10 h-10 rounded-xl overflow-hidden flex-shrink-0 ring-2 ring-brand-orange/20 group-hover:ring-brand-orange/60 transition-all duration-300">
               <img
-                src="/EDSIP.jpg"
+                src="/edsip1.jpg"
                 alt="EDSIP Logo"
                 className="w-full h-full object-cover"
               />

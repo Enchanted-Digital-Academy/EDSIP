@@ -106,7 +106,7 @@ const Hero = () => {
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-xl overflow-hidden">
                     <img
-                      src="/EDSIP.jpg"
+                      src="/edsip1.jpg"
                       alt="EDSIP"
                       className="w-full h-full object-cover"
                     />

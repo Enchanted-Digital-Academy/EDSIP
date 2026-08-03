@@ -61,7 +61,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-5">
               <div className="w-10 h-10 rounded-xl overflow-hidden ring-2 ring-brand-orange/20">
                 <img
-                  src="/EDSIP.jpg"
+                  src="/edsip1.jpg"
                   alt="EDSIP"
                   className="w-full h-full object-cover"
                 />
