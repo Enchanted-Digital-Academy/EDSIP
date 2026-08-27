@@ -9,7 +9,7 @@ const footerLinks = {
     { label: "Student Ambassador", href: "#" },
   ],
   Students: [
-    { label: "Apply Now", href: "#" },
+    { label: "Apply Now", href: "mailto:hello@enchanteddigitalacademy.com.ng" },
     { label: "Student Dashboard", href: "#" },
     { label: "Learning Resources", href: "#" },
     { label: "Internship Opportunities", href: "#" },
@@ -45,7 +45,7 @@ const Footer = () => {
             </p>
           </div>
           <a
-            href="#"
+            href="mailto:hello@enchanteddigitalacademy.com.ng"
             className="flex-shrink-0 bg-white text-brand-orange font-bold px-8 py-3.5 rounded-xl hover:bg-orange-50 transition-all duration-200 text-sm hover:-translate-y-0.5 shadow-lg"
           >
             Apply for EDSIP &#8594;

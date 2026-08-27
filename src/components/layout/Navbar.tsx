@@ -64,13 +64,13 @@ const Navbar = () => {
           {/* Desktop CTA — hidden on mobile */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="#"
+              href="mailto:hello@enchanteddigitalacademy.com.ng"
               className="text-gray-600 hover:text-brand-orange text-sm font-medium transition-colors duration-200"
             >
               Log In
             </a>
             <a
-              href="#"
+              href="mailto:hello@enchanteddigitalacademy.com.ng"
               className="bg-brand-orange hover:bg-brand-orange-hover text-white text-sm font-semibold px-5 py-2.5 rounded-xl transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-orange-200"
             >
               Apply Now
@@ -108,13 +108,13 @@ const Navbar = () => {
           ))}
           <div className="pt-4 space-y-3">
             <a
-              href="#"
+              href="mailto:hello@enchanteddigitalacademy.com.ng"
               className="block text-center text-gray-600 hover:text-brand-orange text-sm font-medium py-3 border border-gray-200 rounded-xl transition-all duration-200"
             >
               Log In
             </a>
             <a
-              href="#"
+              href="mailto:hello@enchanteddigitalacademy.com.ng"
               className="block text-center bg-brand-orange hover:bg-brand-orange-hover text-white text-sm font-semibold py-3 rounded-xl transition-all duration-200"
             >
               Apply Now

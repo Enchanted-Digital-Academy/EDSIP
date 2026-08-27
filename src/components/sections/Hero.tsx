@@ -81,7 +81,7 @@ const Hero = () => {
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <a
-                href="#"
+                href="mailto:hello@enchanteddigitalacademy.com.ng"
                 className="inline-flex items-center gap-2 bg-brand-orange hover:bg-brand-orange-hover text-white font-bold px-7 py-4 rounded-xl transition-all duration-200 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-orange-200 text-sm"
               >
                 Apply for EDSIP
