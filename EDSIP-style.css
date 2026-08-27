@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(255, 254, 253);
+    background-image: url("bg_image.jpeg");
+    text-align: justify;
+}
+.company-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+}
+.logo{
+    width: 55px;
+    height: 55px;
+    transform: rotate(8deg); /*slightly slanted*/
+}
+body h2{
+    text-align: center;
+    color: #be7131;
+}
+body h3{
+    text-align: center;
+    margin-bottom: 2px;
+}
+body h4{
+    text-align: center;
+} 
+body h5{
+    text-align: center;
+    font-size: 16px;
+    color: #be7131;
+}
+.login{
+    width: 350px;
+    margin: 40px auto;
+}
+input{
+    color:rgb(0, 0, 0);
+    border-color: #0a0606;
+    border-radius: 10px;
+    outline: 0;
+    padding: 8px;
+    width: 280px;
+    margin-bottom: 15px;
+}
+input::placeholder{
+    color: #888;
+}
+button{
+    background-color: rgb(245, 187, 110);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #0a0606;
+    border-radius: 10px;
+    padding: 6px;
+    outline: 0;
+    display: block;
+    margin: 20px auto;
+    margin-left: 97px;
+    width: 80px;
+}
+.text{
+    color: #2c2a2a;
+    cursor: pointer;
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.text:hover{
+    color: #2563EB;
+}
+#forgotPass{
+    display: none;
+}
