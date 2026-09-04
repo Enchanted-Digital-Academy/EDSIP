@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, MessageCircle, ExternalLink } from "lucide-react";
+import { Mail, Phone, MapPin } from "lucide-react";
 
 const footerLinks = {
   Programme: [
