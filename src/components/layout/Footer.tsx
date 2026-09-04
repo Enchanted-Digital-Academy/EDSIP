@@ -17,9 +17,9 @@ const footerLinks = {
   ],
   Company: [
     { label: "Enchanted Digital Academy", href: "#" },
-    { label: "Partner With Us", href: "#" },
+    { label: "Partner With Us", href: "/partners" },
     { label: "Careers", href: "#" },
-    { label: "Privacy Policy", href: "#" },
+    { label: "Privacy Policy", href: "/privacy-policy" },
     { label: "Terms of Service", href: "#" },
   ],
 };
