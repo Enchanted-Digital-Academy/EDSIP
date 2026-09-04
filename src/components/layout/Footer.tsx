@@ -9,7 +9,7 @@ const footerLinks = {
     { label: "Student Ambassador", href: "#" },
   ],
   Students: [
-    { label: "Apply Now", href: "#" },
+    { label: "Apply Now", href: "mailto:hello@enchanteddigitalacademy.com.ng" },
     { label: "Student Dashboard", href: "#" },
     { label: "Learning Resources", href: "#" },
     { label: "Internship Opportunities", href: "#" },
@@ -17,9 +17,9 @@ const footerLinks = {
   ],
   Company: [
     { label: "Enchanted Digital Academy", href: "#" },
-    { label: "Partner With Us", href: "#" },
+    { label: "Partner With Us", href: "/partners" },
     { label: "Careers", href: "#" },
-    { label: "Privacy Policy", href: "#" },
+    { label: "Privacy Policy", href: "/privacy-policy" },
     { label: "Terms of Service", href: "#" },
   ],
 };
@@ -45,7 +45,7 @@ const Footer = () => {
             </p>
           </div>
           <a
-            href="#"
+            href="mailto:hello@enchanteddigitalacademy.com.ng"
             className="flex-shrink-0 bg-white text-brand-orange font-bold px-8 py-3.5 rounded-xl hover:bg-orange-50 transition-all duration-200 text-sm hover:-translate-y-0.5 shadow-lg"
           >
             Apply for EDSIP &#8594;
@@ -61,7 +61,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-5">
               <div className="w-10 h-10 rounded-xl overflow-hidden ring-2 ring-brand-orange/20">
                 <img
-                  src="/EDSIP.jpg"
+                  src="/edsip1.jpg"
                   alt="EDSIP"
                   className="w-full h-full object-cover"
                 />
